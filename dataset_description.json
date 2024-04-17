@@ -1,9 +1,14 @@
 {
     "Name": "Neural Correlates of Lidocaine Analgesic (NLA) Study",
     "BIDSVersion": "v1.8.0",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-        "Keith M. Vogt", "Alex C. Burlew", "Sujatha N. Reddy", "Marcus Simmons", "Courtney N. Kozdron", "James W. Ibinson"
+        "Keith M. Vogt",
+        "Alex C. Burlew",
+        "Sujatha N. Reddy",
+        "Marcus Simmons",
+        "Courtney N. Kozdron",
+        "James W. Ibinson"
     ],
     "Acknowledgments": "",
     "HowToAcknowledge": "",
@@ -13,6 +18,5 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds005088.v1.0.0"
 }
-
